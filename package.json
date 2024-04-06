@@ -1,0 +1,13 @@
+{
+  "name": "lexilift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "openAiCommunication.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "openai": "^4.22.1"
+  }
+}
